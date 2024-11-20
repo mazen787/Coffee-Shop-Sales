@@ -1,6 +1,5 @@
 # Sales Data Analysis Project
 
-## [Click here to view the Interactive Power BI Dashboard](#)
 
 ### Dashboard Snapshot:
 <img width="714" alt="image" src="https://github.com/user-attachments/assets/001432fe-4c84-4ab5-be97-4c31eb980353">
