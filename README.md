@@ -2,12 +2,10 @@
 
 ## [Click here to view the Interactive Power BI Dashboard](#)
 
-### Dashboard Snapshots:
-1. ![Dashboard Overview](#)
+### Dashboard Snapshot:
+1. ![Dashboard Overview](<img width="714" alt="image" src="https://github.com/user-attachments/assets/001432fe-4c84-4ab5-be97-4c31eb980353">
+)
 
-2. ![Sales by Weekdays](#)
-
-3. ![Sales by Store Location](#)
 
 ---
 
